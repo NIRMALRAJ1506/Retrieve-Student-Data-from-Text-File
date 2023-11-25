@@ -1,0 +1,16 @@
+Rainbow Schools
+Name   Age Dept Grade
+Nirmal 18  CS  98.88 
+Arun   17  Bio. 99.99 
+Shiva  18  Comm 97.99 
+Arvind 19  CS   100   
+Raju   20  CS   87.80 
+Dinesh 17  Bio. 85    
+JK     19  Comm 80    
+Priya  16  CS   94.50                                           
+Rahul  17  Comm 88.20                                        
+Ananya 15  Comm 92.75                                 
+Harish 16  Bio. 85.60                              
+Sneha  15  CS   86.34                         
+Ravi   17  Bio. 99.56                              
+Nisha  18  Comm 84.67

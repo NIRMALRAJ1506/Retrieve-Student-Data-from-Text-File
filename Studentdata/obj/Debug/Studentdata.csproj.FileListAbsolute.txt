@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\bin\Debug\Studentdata.exe.config
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\bin\Debug\Studentdata.exe
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\bin\Debug\Studentdata.pdb
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\obj\Debug\Studentdata.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\obj\Debug\Studentdata.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\obj\Debug\Studentdata.exe
+C:\Mphasis dot net\Day 11\Studentdata\Studentdata\obj\Debug\Studentdata.pdb
